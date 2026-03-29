@@ -1,0 +1,5 @@
+Experiment,Batch Size,Target Update,Final Score,Final Avg Reward,Max Score,Max Avg Reward,Total Steps
+Batch 8,8,10,-21.0,-20.2,-19.0,-19.6,912
+Batch 16,16,10,-19.0,-18.2,-14.0,-17.2,1339
+Target 3,8,3,-19.0,-17.8,-14.0,-16.8,1490
+Final,8,10,-21.0,-19.0,-14.0,-17.0,1406

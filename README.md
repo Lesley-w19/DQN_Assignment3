@@ -73,6 +73,12 @@ jupyter notebook DQNAssignment3.ipynb
   * Generate plots
   * Save results as CSV files
 
+4. Run the DQAssign3.py file to simulate pong environment
+
+```bash
+python DQAssign3.py
+```
+
 ---
 
 ## Output
